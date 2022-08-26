@@ -23,3 +23,11 @@ print ("sum: " + str(output))
 course = 'python for beginners'
 print(course.upper())
 print(course)
+course = 'PYTHON FOR BEGINNERS'
+print(course.lower())
+print(course)
+course = 'python for beginners'
+print(course.find('y'))
+
+
+
